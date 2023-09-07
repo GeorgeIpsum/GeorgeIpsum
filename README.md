@@ -1,17 +1,20 @@
-## 🌧⛈🌦🌧⛈
+# 🌧⛈🌦🌧⛈
 
 ```typescript
 const ABOUT = {
   "name": "Ibrahim Saberi",
+
   "titles": [
               "Product Owner @Tilli",
               "Dev PM @CCS"
             ],
+
   "about": ""
           + "I'm a product manager (focused on fintech)/ fullstack dev " 
           + "operating mostly within the js/ Node ecosystem. " 
           + "Hopefully one day I'll be making games 😬",
-  "favorite_🍦": "coffee!"
+
+  "favorite_🍦": "coffee!",
 };
 ```
 
