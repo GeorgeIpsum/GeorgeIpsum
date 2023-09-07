@@ -1,12 +1,18 @@
-## 🌦🌧⛈
+## 🌧⛈🌦🌧⛈
 
-```json
-{
+```typescript
+const ABOUT = {
   "name": "Ibrahim Saberi",
-  "title": ["Product Owner @Tilli", "Dev PM @CCS"],
-  "about": "I'm a product manager (focused on fintech)/ fullstack dev operating mostly within the js/ Node ecosystem. Hopefully one day I'll be making games",
+  "titles": [
+              "Product Owner @Tilli",
+              "Dev PM @CCS"
+            ],
+  "about": ""
+          + "I'm a product manager (focused on fintech)/ fullstack dev " 
+          + "operating mostly within the js/ Node ecosystem. " 
+          + "Hopefully one day I'll be making games 😬",
   "favorite_🍦": "coffee!"
-}
+};
 ```
 
 <!--
